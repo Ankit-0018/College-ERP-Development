@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://pragyesh7753.github.io/College-ERP-Development",
+  "homepage": "https://ankit-0018.github.io/College-ERP-Development",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
